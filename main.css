@@ -3,3 +3,14 @@
     padding: 0;
     text-decoration: none;
 }
+
+.header_container {
+    display: flex;
+}
+
+.header_menu_container {
+}
+
+.header_menu_list {
+    display: flex;
+}

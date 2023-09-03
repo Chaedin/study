@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    list-style: none;
 }
 
 .header_container {
@@ -12,5 +13,9 @@
 }
 
 .header_menu_list {
+    display: flex;
+}
+
+.icon_area {
     display: flex;
 }
